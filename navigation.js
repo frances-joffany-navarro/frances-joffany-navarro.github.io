@@ -1,6 +1,6 @@
 // Problem: Content is collapsing/expanding if I click the same link everytime
 // Solution: Disable links in Navbar if the content is expanded so that it will 
-//           not collapse and can only click the other link to show their respected
+//           not collapse and can only click the other linkS to show their respected
 //           content
 
 
