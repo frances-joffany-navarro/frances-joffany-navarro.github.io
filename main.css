@@ -1,7 +1,23 @@
-.bebas-neue-regular {
-  font-family: "Bebas Neue", serif;
-  font-weight: 400;
-  font-style: normal;
+body {
+  background-color: #faf5e9;
+}
+
+nav {
+  background-color: #ffcc00;
+}
+
+span.nav-link a {
+  color: #009b4d
+}
+
+.btn-primary {
+  background-color: rgba(0, 115, 77, 0.8);
+  border-color: rgba(0, 115, 77, 0.8);
+}
+
+.btn-primary:hover {
+  background-color: #009b4d;
+  border-color: #009b4d;
 }
 
 .jost-semi-bold {
@@ -11,14 +27,19 @@
   font-style: normal;
 }
 
-.h1{
+.h1 {
   font-size: 32px;
 }
 
-.headline{
+.headline {
   font-size: 64px;
 }
 
-.main-content{
+.main-content {
   margin-top: 80px;
 }
+
+.card {
+  background-color: rgba(255,204,0,0.1);
+}
+
