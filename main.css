@@ -15,7 +15,7 @@ span.nav-link a {
   border-color: rgba(0, 115, 77, 0.8);
 }
 
-.btn-primary:hover {
+.btn-primary:hover, .btn-primary:active {
   background-color: #009b4d;
   border-color: #009b4d;
 }
