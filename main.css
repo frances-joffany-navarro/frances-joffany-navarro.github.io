@@ -7,7 +7,7 @@ nav {
 }
 
 span.nav-link a {
-  color: #009b4d
+  color: #009b4d;
 }
 
 .btn-primary {
@@ -15,7 +15,9 @@ span.nav-link a {
   border-color: rgba(0, 115, 77, 0.8);
 }
 
-.btn-primary:hover, .headline button.btn-primary:active, .card-body a.btn-primary:active{
+.btn-primary:hover,
+.headline button.btn-primary:active,
+.card-body a.btn-primary:active {
   background-color: #009b4d;
   border-color: #009b4d;
 }
@@ -40,9 +42,13 @@ span.nav-link a {
 }
 
 .card {
-  background-color: rgba(255,204,0,0.1);
+  background-color: rgba(255, 204, 0, 0.1);
 }
 
+a.resume-link {
+  color: #009b4d;
+  text-decoration: none;
+}
 
 /* Media query */
 
@@ -50,5 +56,4 @@ span.nav-link a {
   .headline {
     font-size: 32px;
   }
-  
 }
