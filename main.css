@@ -10,9 +10,14 @@ span.nav-link a {
   color: #009b4d;
 }
 
-.btn-primary {
+.btn-primary  {
   background-color: rgba(0, 115, 77, 0.8);
   border-color: rgba(0, 115, 77, 0.8);
+}
+
+span.badge.text-bg-primary {
+  background-color: #ffcc00 !important;
+  color: black !important;
 }
 
 .btn-primary:hover,
