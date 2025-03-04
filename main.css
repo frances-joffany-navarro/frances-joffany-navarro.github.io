@@ -10,7 +10,7 @@ span.nav-link a {
   color: #009b4d;
 }
 
-.btn-primary  {
+.btn-primary {
   background-color: rgba(0, 115, 77, 0.8);
   border-color: rgba(0, 115, 77, 0.8);
 }
@@ -53,6 +53,18 @@ span.badge.text-bg-primary {
 a.resume-link {
   color: #009b4d;
   text-decoration: none;
+}
+
+ul.project-dropdown {
+  list-style: none;
+}
+
+ul.dropdown-menu{
+  background-color: #ffcc00;
+}
+
+a.dropdown-item:hover, a.dropdown-item:active{
+  background-color: #faf5e9;
 }
 
 /* Media query */
