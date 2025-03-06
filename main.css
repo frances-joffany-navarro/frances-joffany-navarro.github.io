@@ -66,6 +66,12 @@ ul.dropdown-menu{
 a.dropdown-item:hover, a.dropdown-item:active{
   background-color: #faf5e9;
 }
+a.dropdown-item.active{
+  background-color: #faf5e9;
+  color: black;
+}
+
+
 
 /* Media query */
 
